@@ -1,4 +1,5 @@
-# multi-sig-wallet
+# Fortify-wallet  (A Multi-Signature-Wallet)
+
 Multi signature wallet contract in Solidity. Requires multiple signatures from different owners for transacting. 
 
 [Click here to see the frontend we've made.](https://fortify-wallet.vercel.app/) 
